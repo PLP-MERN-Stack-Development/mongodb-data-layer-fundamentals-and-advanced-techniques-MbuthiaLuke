@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-data-layer-fundamentals-and-advanced-techniques-mbuthialuke",
+  "version": "1.0.0",
+  "description": "Before you begin this assignment, please make sure you have the following installed:",
+  "main": "insert_books.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-MbuthiaLuke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-MbuthiaLuke/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-MbuthiaLuke#readme",
+  "dependencies": {
+    "mongodb": "^6.20.0"
+  }
+}

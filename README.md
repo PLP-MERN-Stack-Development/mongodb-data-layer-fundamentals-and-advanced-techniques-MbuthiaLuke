@@ -23,6 +23,7 @@ npm install mongodb
 ## Assignment Overview
 
 This week focuses on MongoDB fundamentals including:
+
 - Creating and connecting to MongoDB databases
 - CRUD operations (Create, Read, Update, Delete)
 - MongoDB queries and filters
@@ -56,4 +57,4 @@ Complete all the exercises in this assignment and push your code to GitHub using
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)

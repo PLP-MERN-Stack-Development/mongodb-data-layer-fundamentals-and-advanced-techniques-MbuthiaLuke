@@ -1,6 +1,6 @@
-# MongoDB Setup Instructions for Week 1
-
 ## Error: Cannot find module 'mongodb'
+
+# MongoDB Setup Instructions for Week 1
 
 If you encounter this error when running your JavaScript files:
 
@@ -66,4 +66,4 @@ If you continue to experience issues, please:
 2. Check that you're in the correct directory when installing packages
 3. Verify your MongoDB connection string in your code
 
-For more information, refer to the [MongoDB Node.js Driver documentation](https://www.mongodb.com/docs/drivers/node/current/). 
+For more information, refer to the [MongoDB Node.js Driver documentation](https://www.mongodb.com/docs/drivers/node/current/).
